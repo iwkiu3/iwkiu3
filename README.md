@@ -1,10 +1,8 @@
-##👤 данiл колбасенко | Backend Developer
+##👤 данiл колбасенко | мама одна, дота два
 
-<img src="https://avatars.githubusercontent.com/u/ваш-id" width="150" alt="Иван Сидоров">
+<img src="https://avatars.githubusercontent.com/u/ваш-id" width="150" alt="эмм">
+ 
+**Frontend:** JavaScript, html, css 
+**Инфраструктура:** Docker
 
-**Основные языки:** Python, Java, Go  
-**Фреймворки:** Django, Spring Boot, Gin  
-**Базы данных:** PostgreSQL, Redis, Elasticsearch  
-**Инфраструктура:** Docker, Kubernetes, AWS  
-
-🔗 **Контакты:** [LinkedIn](#) | [Telegram](#) | [ivan@example.com](mailto:ivan@example.com)
+🔗 **Контакты:** [Telegram](https://t.me/iwkilu3) | [Email](komarovat951@gmail.com)
